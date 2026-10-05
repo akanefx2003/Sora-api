@@ -1,0 +1,9 @@
+{
+  "appId": "com.sorax.soraizanaapis",
+  "appName": "Sora-izana-apis",
+  "webDir": "www",
+  "server": {
+    "url": "https://sora-izana-apis.netlify.app",
+    "cleartext": false
+  }
+}
